@@ -6,6 +6,7 @@
 ## Notes ##
 
 !! DB file should be name like and placed in src/database/database.sqlite
+
 !! API can be called with http://localhost:8001/api/doctor/network-aggregates/56?specialization=Surgery
 
 <!-- PROJECT LOGO -->
