@@ -1,6 +1,7 @@
 ## Run the project ##
 
-make run-app-with-setup : build docker and start all docker containers with Laravel setup
+```make run-app-with-setup``` 
+: build docker and start all docker containers with Laravel setup
 
 ## Notes ##
 
